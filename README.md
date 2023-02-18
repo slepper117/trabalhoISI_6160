@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de Integração de Sistemas de Informação.
 
-Esta disciplina faz parte do segundo ano curricular da Licenciatura em Engenharia de Sistemas Informáticos.
+Esta disciplina faz parte do terceiro ano curricular da Licenciatura em Engenharia de Sistemas Informáticos.
 
 ## Contextualização do Trabalho
 
